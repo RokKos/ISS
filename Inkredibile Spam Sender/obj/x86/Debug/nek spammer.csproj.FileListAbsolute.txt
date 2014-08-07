@@ -1,0 +1,12 @@
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\bin\Debug\nek spammer.exe
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\bin\Debug\nek spammer.pdb
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\obj\x86\Debug\nek_spammer.Properties.Resources.resources
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\obj\x86\Debug\nek spammer.exe
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\obj\x86\Debug\nek spammer.pdb
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\bin\Debug\InputSimulator.dll
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\bin\Debug\InputSimulator.pdb
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\bin\Debug\InputSimulator.xml
+c:\users\programerji\documents\visual studio 2010\Projects\nek spammer\nek spammer\obj\x86\Debug\nek_spammer.MainForm.resources
